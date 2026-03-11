@@ -12,7 +12,7 @@
 
 # 🚀 Sobre mim
 
-Sou Anibal Soares Neto, graduando em Ciência da Computação pela Universidade Estadual do Norte do Paraná (UENP). Tenho interesse nas áreas de Cloud Computing e Análise de Dados, estudando tecnologias voltadas para infraestrutura em nuvem, manipulação e interpretação de dados. Atualmente estou me preparando para certificações como AWS Cloud Practitioner, buscando desenvolver habilidades que integrem computação em nuvem e análise de dados para suporte à tomada de decisões.**.
+Me chamo Anibal Soares Neto, tenho 24 anos, sou graduando em Ciência da Computação pela Universidade Estadual do Norte do Paraná (UENP). Tenho interesse nas áreas de Cloud Computing e Análise de Dados, estudando tecnologias voltadas para infraestrutura em nuvem, manipulação e interpretação de dados. Atualmente estou me preparando para certificações como AWS Cloud Practitioner, buscando desenvolver habilidades que integrem computação em nuvem e análise de dados para suporte à tomada de decisões.**.
 
 Meu foco é desenvolver habilidades em:
 
